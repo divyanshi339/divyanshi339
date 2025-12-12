@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyanshi Patkar</h1>
 <h3 align="center">A passionate of AI , ML , full stack MERN Technologies - My Journey Begins Here  </h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=6&uuid=d59f58bc-d9e4-4916-a521-c086ea27d932&query=Coding+gif">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshi339&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshi339" /> </p>
 
